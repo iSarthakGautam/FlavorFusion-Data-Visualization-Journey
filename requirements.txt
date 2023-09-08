@@ -1,0 +1,8 @@
+pandas
+re
+numpy
+plotly.express
+WordCloud
+matplotlib.pyplot
+streamlit_extras.no_default_selectbox
+streamlit

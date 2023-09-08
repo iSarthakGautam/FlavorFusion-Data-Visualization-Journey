@@ -3,5 +3,5 @@ numpy
 plotly.express
 WordCloud
 
-streamlit_extras.no_default_selectbox
+
 streamlit

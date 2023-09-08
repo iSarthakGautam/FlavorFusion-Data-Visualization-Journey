@@ -5,3 +5,4 @@ WordCloud
 matplotlib
 streamlit_extras
 streamlit
+openpyxl

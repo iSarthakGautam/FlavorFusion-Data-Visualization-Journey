@@ -4,7 +4,16 @@ In this section, we provide a detailed overview of the code used for our data vi
 
 
 
-Table of Contents
+## Team Details
+
+### Team Name: PixelPulse
+
+|          Member Details           |
+| :-------------------------------: |
+|      Sejal Anand, 21f1002620      |
+| Harshad Shahu Paikrao, 21f1002085 |
+|    Sarthak Gautam, 21f1000864     |
+
 
 
 

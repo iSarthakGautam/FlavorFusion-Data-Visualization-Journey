@@ -230,7 +230,8 @@ st.plotly_chart(fig, use_container_width=True)  ## Here plotly_chart is plot nam
 
 ### Streamlit Landing Page
 
-![streamlit_landing page](/Users/gautamsmac/Documents/IIT/DVD Proj ss/streamlit_landing page.png)
+<img width="1440" alt="streamlit_landing page" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/9e65150c-a001-4a70-b56e-43f881579ace">
+
 
 ## Getting hold of Columns to be explored
 
@@ -285,7 +286,8 @@ plt.show()
 
 ```
 
-![Network](/Users/gautamsmac/Documents/IIT/DVD Proj ss/Network.png)
+![Network](https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/e3f296c3-0059-4059-81ea-9d8bd195e2be)
+
 
 ## Topics Selected for EDA
 
@@ -304,7 +306,7 @@ Based on manual exploration of data and Networkx graph, following topics are sel
 
 ### What are the cuisine preferences and diets of College Students?
 
-![q1](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q1.png)
+<img width="1440" alt="q1" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/aeaafb74-53c9-49c9-b8e5-55a882f69702">
 
 - Inclination towards different Cuisines
 
@@ -328,7 +330,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
   cuisines_pref_plot.update_xaxes(categoryorder="array",categoryarray=category_order)
   ```
 
-  ![q1 a](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q1 a.png)
+  <img width="963" alt="q1 a" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/fb611195-96af-491b-be61-7e660d849a04">
+
 
 - Favourite Cuisines of College Students
 
@@ -347,7 +350,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
   plt.axis('off')  # Turn off axes
   ```
 
-  ![q1 b](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q1 b.png)
+  <img width="463" alt="q1 b" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/9d75b3d2-b7d5-4c46-879f-695f67df926a">
+
 
 - Coffee Preferences
 
@@ -357,7 +361,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
                             title="Breakfast Preferences")  # Adjust margins
   ```
 
-  ![q1 c](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q1 c.png)
+  <img width="499" alt="q1 c" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/45dcbd32-f3b5-4f58-9087-1e3219ea94c2">
+
 
 - Coffee Preferences
 
@@ -366,7 +371,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
   coffee.update_layout(margin=dict(l=0, r=0, t=30, b=0), title="Coffee Preferences") 
   ```
 
-  ![q1 d](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q1 d.png)
+  <img width="473" alt="q1 d" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/2fe0fd69-906a-4149-a680-104845347aaf">
+
 
 - Comfort Food Preferences
 
@@ -384,7 +390,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
   plt.axis('off')  # Turn off axes
   ```
 
-![q1 e](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q1 e.png)
+<img width="479" alt="q1 e" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/9eaa3b7a-d8c1-4572-bc5a-4527ee2abee8">
+
 
 ### What are the healthy eating and exercising habits of College Students?
 

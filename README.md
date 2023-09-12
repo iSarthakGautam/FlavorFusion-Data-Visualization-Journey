@@ -395,7 +395,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
 
 ### What are the healthy eating and exercising habits of College Students?
 
-![q2](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q2.png)
+<img width="1440" alt="q2" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/7a048329-a6c1-41ce-a3fd-f96f0f7abade">
+
 
 
 - Distribution of weights of College Students
@@ -419,7 +420,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
         ))
   ```
 
-  ![q2 a](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q2 a.png)
+<img width="488" alt="q2 a" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/1a51b181-4571-4322-926f-00ab465dc7eb">
+
 
   
 
@@ -438,7 +440,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
                                categoryarray=exercise_order)
   ```
 
-  ![q2 b](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q2 b.png)
+<img width="454" alt="q2 b" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/56426cb5-4c30-48ac-b3a4-d836ecc32c53">
+
 
 - How Healthy do College Students feel?
 
@@ -466,7 +469,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
       ))
   ```
 
-  ![q2 c](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q2 c.png)
+  <img width="457" alt="q2 c" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/4d1777c7-99ce-4297-96b2-b7bdd6eeeaa2">
+
 
 - Proportion of Students Playing Sports
 
@@ -475,7 +479,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
   sports_pie.update_layout(margin=dict(l=0, r=0, t=30, b=0),title="Play Sports?")
   ```
 
-  ![q2 d](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q2 d.png)
+  <img width="309" alt="q2 d" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/16933856-d298-4419-8bca-9b7c0a7ec0c6">
+
 
 - Likelihood of Consumption of Vegetables in a day
 
@@ -489,7 +494,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
                               yaxis_title="Number of students")
   ```
 
-  ![q2 e](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q2 e.png)
+  <img width="558" alt="q2 e" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/0986562f-4e76-45b7-a656-a059b566ac78">
+
 
 - What do College Students consider as a healthy meal?
 
@@ -508,7 +514,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
   plt.axis('off')  
   ```
 
-![q2 f](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q2 f.png)
+<img width="544" alt="q2 f" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/55caccb2-533a-41ef-ae71-70eebb178cd9">
+
 
 ### Does income impact college students eating out frequency?
 

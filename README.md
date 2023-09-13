@@ -519,7 +519,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
 
 ### Does income impact college students eating out frequency?
 
-![q3](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q3.png)
+<img width="1440" alt="q3" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/7578935a-5c10-4c3b-8812-9f6124837433">
+
 
 - Eating Out Frequency Across Income Groups
 
@@ -555,7 +556,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
   
   ```
 
-  ![q3 a](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q3 a.png)
+  <img width="926" alt="q3 a" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/ee8fe93b-71a9-4541-8b6f-48614f56b8be">
+
 
 - Distribution of Dining Budgets by Eating Out Frequency
 
@@ -578,7 +580,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
   fig_pie_chart.update_layout(showlegend=False)
   ```
 
-  ![q3 b](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q3 b.png)
+  <img width="449" alt="q3 b" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/ac32bd94-db61-4c5b-98e3-a34fcc5cf74b">
+
 
 - Relationship Between Eating Out and Parents Cooking
 
@@ -607,7 +610,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
       
   ```
 
-  ![q3 c](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q3 c.png)
+  <img width="943" alt="q3 c" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/b9c499b7-c7d1-498f-a527-e6eea52ea68b">
+
 
 - Gender and Eating Out Sunburst Chart
 
@@ -616,7 +620,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
   
   ```
 
-  ![q3 d](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q3 d.png)
+  <img width="416" alt="q3 d" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/76b0e2f6-b4f4-4e09-9616-add7da560a50">
+
 
 ### How does weight perception influence college students food choices?
 

@@ -625,7 +625,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
 
 ### How does weight perception influence college students food choices?
 
-![q4](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q4.png)
+<img width="1440" alt="q4" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/39191946-49db-44da-80ef-8f87526e576e">
+
 
 - Distribution of Self-Perceived Weight within Food Choices
 
@@ -658,7 +659,7 @@ Based on manual exploration of data and Networkx graph, following topics are sel
                                     xaxis_title="Food students liked")
   ```
 
-  ![q4 a](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q4 a.png)
+  <img width="699" alt="q4 a" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/6d512a68-9495-4345-9562-f5a926a7374c">
 
 - Distribution of Actual Weight Categories within Food Choices
 
@@ -703,7 +704,8 @@ Based on manual exploration of data and Networkx graph, following topics are sel
     ) 
   ```
 
-  ![q4 b](/Users/gautamsmac/Documents/IIT/DVD Proj ss/q4 b.png)
+  <img width="694" alt="q4 b" src="https://github.com/iSarthakGautam/FlavorFusion-Data-Visualization-Journey/assets/96220233/9f9be78c-8975-4321-b863-13e4d3a5775a">
+
 
 ### What is the comfort food for the students and why?
 
